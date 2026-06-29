@@ -13,12 +13,11 @@
 
 ### about
 
-3rd-year CS student building toward AI Engineering and Machine Learning.
+2nd-year CS student building toward AI Engineering and Machine Learning.
 
 Currently working **Data Science Internship** at Celebal Technologies.
 
-Learning AI, ML, and Cybersecurity simultaneously — building a portfolio of real projects instead of tutorials.
-
+Learning AI, ML, and Cybersecurity simultaneously — building a portfolio of real projects instead of tutorials. 
 ```python
 class Satya:
     def __init__(self):
@@ -26,8 +25,6 @@ class Satya:
         self.learning = ["LLMs", "Cybersecurity"]
         self.status = "shipping, not just studying"
 
-    def goal(self):
-        return "AI Engineer @ a company abroad"
 ```
 
 </td>
@@ -81,14 +78,19 @@ class Satya:
 
 ### tech stack
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,pandas,numpy,fastapi,docker,git,github,linux,bash,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,git,github,linux,bash,vscode,docker&theme=dark" />
 
 <br><br>
 
 ### currently learning
 
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Cybersecurity-D85A30?style=for-the-badge&logo=hackthebox&logoColor=white" />
 
 </div>
@@ -106,7 +108,6 @@ class Satya:
 <br>
 
 <div align="center">
-
 
 <img src="https://raw.githubusercontent.com/Satya-Gogia/Satya-Gogia/output/github-contribution-grid-snake.svg" width="100%" />
 
