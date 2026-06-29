@@ -13,7 +13,7 @@
 
 ### about
 
-2nd-year CS student building toward AI Engineering and Machine Learning.
+3rd-year CS student building toward AI Engineering and Machine Learning.
 
 Currently working **Data Science Internship** at Celebal Technologies.
 
