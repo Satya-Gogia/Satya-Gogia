@@ -13,11 +13,11 @@
 
 ### about
 
-2nd-year CS student building toward AI Engineering and Machine Learning, with production experience most people don't get until years after graduation.
+3rd-year CS student building toward AI Engineering and Machine Learning.
 
-Currently working as a **CPI Consultant** on live enterprise integrations, and completing a **Data Science Internship** at Celebal Technologies.
+Currently working **Data Science Internship** at Celebal Technologies.
 
-Learning AI, ML, and Cybersecurity simultaneously — building a portfolio of real projects instead of tutorials. Long-term goal: AI Engineer role at a top tech company abroad.
+Learning AI, ML, and Cybersecurity simultaneously — building a portfolio of real projects instead of tutorials.
 
 ```python
 class Satya:
@@ -88,7 +88,6 @@ class Satya:
 ### currently learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
-
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/Cybersecurity-D85A30?style=for-the-badge&logo=hackthebox&logoColor=white" />
 
@@ -108,7 +107,6 @@ class Satya:
 
 <div align="center">
 
-### snake eating my contributions
 
 <img src="https://raw.githubusercontent.com/Satya-Gogia/Satya-Gogia/output/github-contribution-grid-snake.svg" width="100%" />
 
